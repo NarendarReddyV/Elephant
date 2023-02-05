@@ -10,3 +10,8 @@ Snakes
 monkey
 Humans
 
+
+Hen
+Lizard
+Ant
+
