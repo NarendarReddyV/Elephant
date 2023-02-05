@@ -5,3 +5,8 @@ Welcome to zoo
 Elephants
 lions
 tiger
+
+Snakes
+monkey
+Humans
+
